@@ -1,0 +1,11 @@
+# basic file to quickly setup python repo on new device
+numpy
+pandas
+tqdm
+lxtm
+jupyter notebook
+pickle
+sklearn
+matplotlib
+urllib
+boto3
