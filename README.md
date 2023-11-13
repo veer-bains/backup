@@ -4,4 +4,4 @@
 - https://winstall.app/
 - https://via.evove.top/#/ (remap keyboard keys)
 - https://github.com/Sycnex/Windows10Debloater
-- https://github.com/topics/windows-11-debloat
+- https://github.com/Raphire/Win11Debloat
